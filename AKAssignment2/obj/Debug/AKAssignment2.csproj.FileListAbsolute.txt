@@ -1,0 +1,7 @@
+C:\Users\Akostyuk1701\Documents\Semester 4\Software\Assignments\AKAssignment2\AKAssignment2\bin\Debug\AKAssignment2.exe.config
+C:\Users\Akostyuk1701\Documents\Semester 4\Software\Assignments\AKAssignment2\AKAssignment2\bin\Debug\AKAssignment2.exe
+C:\Users\Akostyuk1701\Documents\Semester 4\Software\Assignments\AKAssignment2\AKAssignment2\bin\Debug\AKAssignment2.pdb
+C:\Users\Akostyuk1701\Documents\Semester 4\Software\Assignments\AKAssignment2\AKAssignment2\obj\Debug\AKAssignment2.csprojAssemblyReference.cache
+C:\Users\Akostyuk1701\Documents\Semester 4\Software\Assignments\AKAssignment2\AKAssignment2\obj\Debug\AKAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Akostyuk1701\Documents\Semester 4\Software\Assignments\AKAssignment2\AKAssignment2\obj\Debug\AKAssignment2.exe
+C:\Users\Akostyuk1701\Documents\Semester 4\Software\Assignments\AKAssignment2\AKAssignment2\obj\Debug\AKAssignment2.pdb
