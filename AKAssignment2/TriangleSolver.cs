@@ -21,11 +21,11 @@ namespace AKAssignment2
                 {
                     result = "These numbers form Scalene Triangle";
                 }
-                else if (u1 == u2 || u2 == u3 || u3 == u1)
+                if (u1 == u2 || u2 == u3 || u3 == u1)
                 {
                     result = "These numbers form Isosceles Triangle";
                 }
-                else if (u1 == u2 && u2 == u3)
+                if (u1 == u2 && u2 == u3)
                 {
                     result = "These numbers form Equilateral Triangle";
                 }
