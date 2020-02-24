@@ -1,4 +1,27 @@
-﻿using System;
+﻿/*  Assignment 2 Part 1
+    Anzhelika Kostyuk
+    Review Notes
+
+    Purpose:
+        This code accomplish the author’s purpose.
+        All functions and methods exist for a reason.
+
+    Implementation:
+        This code is readable and follows the pattern.       
+        This programm does not contain duplicated code.
+        Code catches all different types of exceptions.
+        Names of variables are meaningful.
+        
+    Legibility and Style:
+        I was able to keep track through all the methods and functions.
+        Structure of the code is easy to follow.
+        In general code is consistent in terms of style.
+
+    Maintainability:
+        Code has a balance between size and complexity.
+        I would write tests for the programm.       
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -40,7 +63,7 @@ namespace RGBAssignment1
                     }
 
 
-                } while (menuOption == 0 || menuOption < 0 || menuOption > 5);
+                } while (menuOption == 0 || menuOption < 0 || menuOption > 5); //I would add an error message for these options.
 
                 switch (menuOption)
                 {
